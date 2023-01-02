@@ -18,7 +18,7 @@ Lastly, there is a search field on the Navigation bar, which allows the user to 
 - API Service by Google Maps https://console.cloud.google.com/
 - Maps JavaScript API
 - Places API
-- snazzymaps.com to change the map skin/theme
+- www.snazzymaps.com to change the map skin/theme
 - www.netlify.com to deploy the application
 
 **Learning Outcomes:** <br>
